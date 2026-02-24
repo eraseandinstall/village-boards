@@ -10,7 +10,8 @@
       "photo_urls": [],
       "added_date": "2026-02-24",
       "address": "1 High Street, London",
-      "publicly_accessible": true
+      "publicly_accessible": true,
+      "owner_contact": ""
     },
     {
       "id": "002",
@@ -22,7 +23,8 @@
       "photo_urls": [],
       "added_date": "2026-02-24",
       "address": "The Quintins Centre, Hailsham, BN27 1DP",
-      "publicly_accessible": false
+      "publicly_accessible": false,
+      "owner_contact": "manager@asda.com"
     },
     {
       "id": "003",
@@ -34,7 +36,8 @@
       "photo_urls": [],
       "added_date": "2026-02-24",
       "address": "Hailsham Country Park, BN27 4DW",
-      "publicly_accessible": false
+      "publicly_accessible": false,
+      "owner_contact": "manager@asda.com"
     }
     
   ]
