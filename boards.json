@@ -2,19 +2,6 @@
   "notice_boards": [
     {
       "id": "001",
-      "name": "The Needful",
-      "latitude": 51.5074,
-      "longitude": -0.1278,
-      "description": "Large cork board on the exterior wall. Updated regularly with local events and lost pet notices.",
-      "submitted_by": "Villageboards Admin",
-      "photo_urls": [],
-      "added_date": "2026-02-24",
-      "address": "1 High Street, London",
-      "publicly_accessible": true,
-      "owner_contact": ""
-    },
-    {
-      "id": "002",
       "name": "Asda Hailsham",
       "latitude": 50.86313,
       "longitude": 0.25837,
@@ -29,7 +16,7 @@
       "owner_contact": "manager@asda.com"
     },
     {
-      "id": "003",
+      "id": "002",
       "name": "Hailsham Country Park",
       "latitude": 50.86479,
       "longitude": 0.24285,
@@ -42,7 +29,7 @@
       "address": "Hailsham Country Park, BN27 4DW",
       "publicly_accessible": false,
       "owner_contact": "manager@asda.com"
-    }
+    },
     
   ]
 }
