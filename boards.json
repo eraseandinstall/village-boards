@@ -20,7 +20,9 @@
       "longitude": 0.25837,
       "description": "Notice board outside supermarket.",
       "submitted_by": "Villageboards Admin",
-      "photo_urls": ["https://ugcgtwafejjexdirbzxb.supabase.co/storage/v1/object/sign/Village%20Boards%20Images/IMG_0404.HEIC?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81OTMxOGM0MC05NzdjLTQ0YTMtYjQ2MS1kMGZkZGM2OTYzMTYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJWaWxsYWdlIEJvYXJkcyBJbWFnZXMvSU1HXzA0MDQuSEVJQyIsImlhdCI6MTc3MTk2MzYwMCwiZXhwIjoxNzcyODI3NjAwfQ.Kua4rTRoIXw5tGeoC4_UJFwig65l9cdlqjmiBvi4QDQ"],
+      "photo_urls": [
+        "https://ugcgtwafejjexdirbzxb.supabase.co/storage/v1/object/sign/Village%20Boards%20Images/IMG_0404.HEIC?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81OTMxOGM0MC05NzdjLTQ0YTMtYjQ2MS1kMGZkZGM2OTYzMTYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJWaWxsYWdlIEJvYXJkcyBJbWFnZXMvSU1HXzA0MDQuSEVJQyIsImlhdCI6MTc3MTk2MzYwMCwiZXhwIjoxNzcyODI3NjAwfQ.Kua4rTRoIXw5tGeoC4_UJFwig65l9cdlqjmiBvi4QDQ"
+      ],
       "added_date": "2026-02-24",
       "address": "The Quintins Centre, Hailsham, BN27 1DP",
       "publicly_accessible": false,
@@ -33,7 +35,9 @@
       "longitude": 0.24285,
       "description": "Locked board near lake.",
       "submitted_by": "Villageboards Admin",
-      "photo_urls": ["https://ugcgtwafejjexdirbzxb.supabase.co/storage/v1/object/sign/Village%20Boards%20Images/IMG_0162.HEIC?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81OTMxOGM0MC05NzdjLTQ0YTMtYjQ2MS1kMGZkZGM2OTYzMTYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJWaWxsYWdlIEJvYXJkcyBJbWFnZXMvSU1HXzAxNjIuSEVJQyIsImlhdCI6MTc3MTk2MzU1OCwiZXhwIjoyMDg3MzIzNTU4fQ.4Z9ysGhBP8g5wryRxqlMrN5ZSIsCBT8pAEzAVGg_Fzk"],
+      "photo_urls": [
+        "https://ugcgtwafejjexdirbzxb.supabase.co/storage/v1/object/sign/Village%20Boards%20Images/IMG_0162.HEIC?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81OTMxOGM0MC05NzdjLTQ0YTMtYjQ2MS1kMGZkZGM2OTYzMTYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJWaWxsYWdlIEJvYXJkcyBJbWFnZXMvSU1HXzAxNjIuSEVJQyIsImlhdCI6MTc3MTk2MzU1OCwiZXhwIjoyMDg3MzIzNTU4fQ.4Z9ysGhBP8g5wryRxqlMrN5ZSIsCBT8pAEzAVGg_Fzk"
+      ],
       "added_date": "2026-02-24",
       "address": "Hailsham Country Park, BN27 4DW",
       "publicly_accessible": false,
