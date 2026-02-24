@@ -9,7 +9,8 @@
       "submitted_by": "Villageboards Admin",
       "photo_urls": [],
       "added_date": "2026-02-24",
-      "address": "1 High Street, London"
+      "address": "1 High Street, London",
+      "publicly_accessible": true
     },
     {
       "id": "002",
@@ -20,7 +21,8 @@
       "submitted_by": "Villageboards Admin",
       "photo_urls": [],
       "added_date": "2026-02-24",
-      "address": "The Quintins Centre, Hailsham, BN27 1DP"
+      "address": "The Quintins Centre, Hailsham, BN27 1DP",
+      "publicly_accessible": false
     },
     {
       "id": "003",
@@ -31,7 +33,8 @@
       "submitted_by": "Villageboards Admin",
       "photo_urls": [],
       "added_date": "2026-02-24",
-      "address": "Hailsham Country Park, BN27 4DW"
+      "address": "Hailsham Country Park, BN27 4DW",
+      "publicly_accessible": false
     }
     
   ]
