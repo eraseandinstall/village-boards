@@ -21,6 +21,18 @@
       "photo_urls": [],
       "added_date": "2026-02-24",
       "address": "The Quintins Centre, Hailsham, BN27 1DP"
+    },
+    {
+      "id": "002",
+      "name": "Hailsham Country Park",
+      "latitude": 50.86479,
+      "longitude": 0.24285,
+      "description": "Locked board near lake.",
+      "submitted_by": "Villageboards Admin",
+      "photo_urls": [],
+      "added_date": "2026-02-24",
+      "address": "Hailsham Country Park, BN27 4DW"
     }
+    
   ]
 }
