@@ -10,6 +10,17 @@
       "photo_urls": [],
       "added_date": "2026-02-24",
       "address": "1 High Street, London"
+    },
+    {
+      "id": "002",
+      "name": "Asda Hailsham",
+      "latitude": 50.86313,
+      "longitude": 0.25837,
+      "description": "Notice board outside supermarket.",
+      "submitted_by": "Villageboards Admin",
+      "photo_urls": [],
+      "added_date": "2026-02-24",
+      "address": "The Quintins Centre, Hailsham, BN27 1DP"
     }
   ]
 }
