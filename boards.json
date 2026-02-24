@@ -2,11 +2,11 @@
   "notice_boards": [
     {
       "id": "001",
-      "name": "Outside the Post Office",
+      "name": "The Needful",
       "latitude": 51.5074,
       "longitude": -0.1278,
       "description": "Large cork board on the exterior wall. Updated regularly with local events and lost pet notices.",
-      "submitted_by": "villageboards_team",
+      "submitted_by": "Villageboards Admin",
       "photo_urls": [],
       "added_date": "2026-02-24",
       "address": "1 High Street, London"
